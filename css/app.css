@@ -1,0 +1,15 @@
+body {
+	padding-top: 4em;
+}
+
+h2.site_heading {
+	text-align: center;
+}
+
+div.field {
+	text-align: center;
+}
+
+div#success{
+	padding-top:2em;
+}
